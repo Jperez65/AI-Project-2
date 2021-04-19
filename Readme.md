@@ -18,7 +18,7 @@ Before running the program you must have a text file in the same directory folde
 
 > 1 2 3
 >
-? 8 0 4
+> 8 0 4
 >
 > 7 6 5
 > 
