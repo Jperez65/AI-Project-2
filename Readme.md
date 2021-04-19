@@ -21,7 +21,8 @@ Before running the program you must have a text file in the same directory folde
 ? 8 0 4
 >
 > 7 6 5
-'''
+> 
+
 After running the program it will output a message to enter the name of the txt file. Ex: 
 
 
