@@ -5,9 +5,9 @@
 To compile file you must have python 3.8.5 ver installed in your system environment or use any other IDE programs. 
 After that you must go to the directory where the program is located and write 
 
-'''bash 
-python Project2.py
-'''
+
+>python Project2.py
+
 
 to your console terminal
 
@@ -15,32 +15,42 @@ to your console terminal
 
 Before running the program you must have a text file in the same directory folder with the program before running it. The text file content must follow the format of 8-puzzle layout. Example:
 
-'''text
-1 2 3
-8 0 4
-7 6 5
+
+> 1 2 3
+>
+? 8 0 4
+>
+> 7 6 5
 '''
 After running the program it will output a message to enter the name of the txt file. Ex: 
 
-'''text
-Enter text name file here
-sample.txt
-'''
+
+>Enter text name file here
+>
+>sample.txt
+
 
 Next it will output the total numbers of move set cost needed to solve the 8-puzzle from initial state to goal state. Example:
 
-'''text
-Goal State
-[1, 2, 3]
-[8, 0, 4]
-[7, 6, 5]
 
-Initial State
-['1', '3', '4']
-['8', '0', '6']
-['7', '5', '2']
-Total cost for solution:  30
-'''
+>Goal State
+>
+> [1, 2, 3]
+> 
+> [8, 0, 4]
+> 
+> [7, 6, 5]
+
+>Initial State
+>
+>['1', '3', '4']
+>
+>['8', '0', '6']
+>
+>['7', '5', '2']
+>
+>Total cost for solution:  30
+
 
 ## classes and function
 
